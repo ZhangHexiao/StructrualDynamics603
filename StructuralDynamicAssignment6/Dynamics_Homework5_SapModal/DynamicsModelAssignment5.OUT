@@ -1,0 +1,22 @@
+ SAP2000 v19.0.0 Educational 32-bit (Analysis Build 9518/32)                    
+ File: C:\Users\Administrator\...Homework5_SapModal\DynamicsModelAssignment5.OUT
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+       1               -   -   -   -   -   -
+       2 TO       4    +       A       A    
+       5               -   -   -   -   -   -
+       6 TO       8    +       A       A    
+    NULL                                    
+
+  CONSTRAINTS         U1  U2  U3  R1  R2  R3
+ DIAPH1_                   A                
